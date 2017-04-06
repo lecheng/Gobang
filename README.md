@@ -15,4 +15,4 @@ The evalution function is based on such principle.
 "20222",25
 "2011",4
 ```
-In the principle, "2" represents self, "1" represents the opponent and "0" represents space.
+In the principle, "2" represents self, "1" represents the opponent and "0" represents space. The value after the comma is weight of this case.th
