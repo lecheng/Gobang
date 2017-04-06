@@ -16,7 +16,3 @@ The evalution function is based on such principle.
 "2011",4
 ```
 In the principle, "2" represents self, "1" represents the opponent and "0" represents space.
-# Usage
-```
-run MainFrame
-```
