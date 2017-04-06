@@ -1,5 +1,5 @@
 # Gobang
-This is a GUI Java Gobang game implemented by min-max algorithm.
+This is a Java GUI Gobang game implemented by min-max algorithm.
 
 The evalution function is based on such principle. 
 ```
